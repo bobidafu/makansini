@@ -1,0 +1,73 @@
+@font-face{
+	font-family: 'Hashed Browns';
+	src: 
+	local('Hashed Browns'),
+	local('Hashed-Browns'),
+	url('../fonts/HashedBrowns/HashedBrowns-WyJgn.ttf') 
+	format('truetype');
+/*
+	font-family: 'French Fries';
+	src: 
+	local('French Fries'),
+	local('French-Fries'),
+	url('../fonts/FrenchFries/French_Fries.ttf') 
+	format('truetype');
+*/
+/*
+	font-family: 'Delicious';
+	src: 
+	local('Delicious'),
+	url('../fonts/Delicious/Delicious.ttf') 
+	format('truetype');
+*/
+	font-family: 'Banana Chip Muffins';
+	src: 
+	local('Banana Chip Muffins'),
+	local('Banana-Chip-Muffins'),
+	url('../fonts/BananaChipMuffins/Bananachipmuffins-0BJr.ttf') 
+	format('truetype');
+
+	font-family: 'Blue Yellow';
+	src: 
+	local('Blue Yellow'),
+	local('Blue-Yellow'),
+	url('../fonts/BlueYellow/BlueYellow-mLnWP.ttf') 
+	format('truetype');
+/*
+	font-family: 'Chicken Pie';
+	src: 
+	local('Chicken Pie'),
+	local('Chicken-Pie'),
+	url('../fonts/ChickenPie/ChickenPie-8MevB.ttf') 
+	format('truetype');
+*/
+	font-family: 'Coconutz';
+	src: 
+	local('Coconutz'),
+	url('../fonts/Coconutz/Coconutz-EaZjl.ttf') 
+	format('truetype');
+/*
+	font-family: 'Jelly Fruit';
+	src: 
+	local('Jelly Fruit'),
+	local('Jelly-Fruit'),
+	url('../fonts/JellyFruit/Jellyfruit-MVpzP.otf') 
+	format('opentype');
+*/
+/*
+	font-family: 'Orange Slices';
+	src: 
+	local('Orange Slices'),
+	local('Orange-Slices'),
+	url('../fonts/OrangeSlices/OrangeSlices-lgPK0.otf') 
+	format('opentype');
+*/
+/*
+	font-family: 'Sunday Smoothies';
+	src: 
+	local('Sunday Smoothies'),
+	local('Sunday-Smoothies'),
+	url('../fonts/SundaySmoothies/SundaySmoothie-rg077.ttf') 
+	format('truetype');
+*/	
+}
