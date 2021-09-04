@@ -1,6 +1,6 @@
 # makansini
 
-MakanSini is a website that incorporates the use of Google Map API to locate the local eateries in Brunei Darussalam...
+MakanSini is a website that incorporates the use of Google Map API to locate the local eateries in Brunei Darussalam.
 
 #### Aims
 
